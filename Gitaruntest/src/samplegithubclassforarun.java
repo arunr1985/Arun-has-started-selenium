@@ -7,7 +7,7 @@ public class samplegithubclassforarun
 
 	void run()
 	{
-		System.out.println("Yahoo ginally I did it");
+		System.out.println("Yahoo ginally I did itt");
 	}
 
 }
